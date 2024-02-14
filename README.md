@@ -1,14 +1,14 @@
 # NLW Expert (React)
 
-Essa aplicação foi desenvolvida durante o NLW Experts da Rocketseat utilizando React, TypeScript, Tailwind e a SpeechRecognition API.
+Application developed during the NLW Expert event by Rocketseat, using React, TypeScript, Tailwind and SpeechRecognition API.
 
-## Executando
+## Execute
 
-Após clonar o repositório, acesse a pasta do projeto e execute os comandos abaixo:
+After cloning the repository, access the project folder and execute the commands below:
 
 ```sh
 npm install
 npm run dev
 ```
 
-Acesse http://localhost:5173 para visualizar a aplicação.
+Access http://localhost:5173 to visualize the application.
